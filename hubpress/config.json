@@ -4,7 +4,12 @@
     "repositoryName": "emlow5.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Journals by Emily",
+    "description": ""
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
