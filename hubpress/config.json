@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Journals by Emily",
-    "description": ""
+    "description": "",
+    "googleAnalytics": "UA-89920918-1"
   },
   "socialnetwork": {},
   "theme": {
