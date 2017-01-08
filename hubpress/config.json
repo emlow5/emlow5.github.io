@@ -9,7 +9,9 @@
     "description": "",
     "googleAnalytics": "UA-89920918-1"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "instagram": "@journalsbyemily"
+  },
   "theme": {
     "name": "casper"
   }
