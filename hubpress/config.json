@@ -2,7 +2,8 @@
   "meta": {
     "username": "emlow5",
     "repositoryName": "emlow5.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "journalsbyemily.com"
   },
   "site": {
     "title": "Journals by Emily",
