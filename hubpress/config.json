@@ -6,10 +6,10 @@
     "cname": "journalsbyemily.com"
   },
   "site": {
-    "title": "Journals by Emily",
+    "title": "",
     "description": "",
     "logo": "",
-    "cover": "images/Cover.png",
+    "cover": "images/journalsbyemily.png",
     "googleAnalytics": "UA-89920918-1"
   },
   "socialnetwork": {
